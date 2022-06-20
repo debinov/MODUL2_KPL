@@ -1,0 +1,17 @@
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.csproj.AssemblyReference.cache
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.Form1.resources
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.csproj.GenerateResource.cache
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.AssemblyInfoInputs.cache
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.AssemblyInfo.cs
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.csproj.CoreCompileInputs.cache
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\bin\Debug\net6.0-windows\modul2_1302201137.exe
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\bin\Debug\net6.0-windows\modul2_1302201137.deps.json
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\bin\Debug\net6.0-windows\modul2_1302201137.runtimeconfig.json
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\bin\Debug\net6.0-windows\modul2_1302201137.dll
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\bin\Debug\net6.0-windows\modul2_1302201137.pdb
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.dll
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\refint\modul2_1302201137.dll
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.pdb
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\modul2_1302201137.genruntimeconfig.cache
+C:\Users\Debi\source\repos\modul2_1302201137\modul2_1302201137\obj\Debug\net6.0-windows\ref\modul2_1302201137.dll
